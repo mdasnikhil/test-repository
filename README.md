@@ -1,2 +1,2 @@
-# test-repository
-This is a third iteration of the file content.
+# This is a test repository
+Looking forward to refresh my git skills
