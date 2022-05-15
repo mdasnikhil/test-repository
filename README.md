@@ -1,4 +1,2 @@
 # test-repository
-This is a test description
-
-This is a new edit from my local machine.
+This is a third iteration of the file content.
